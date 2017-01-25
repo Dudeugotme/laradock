@@ -1,2 +1,2 @@
 compose:
-  from-file: docker-compose.yml
+  from-file: production-docker-compose.yml
